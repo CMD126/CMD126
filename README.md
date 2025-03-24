@@ -14,7 +14,7 @@
 - Desenvolvimento de ferramentas de linha de comando
 
 ## 📫 Como Entrar em Contato
-- Email: cmd126@example.com
+- Email: cmdmiguelsousa@gmail.com
 - LinkedIn: https://www.linkedin.com/in/cmdmiguelsousa/
 
 ## ⚡ Curiosidade
