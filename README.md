@@ -1,37 +1,26 @@
-# Hello, I'm Miguel Sousa (@CMD126) 👋
+# Miguel Sousa — Developer | Linux Security Enthusiast
 
-I'm a self-taught developer with a military background and a mission-driven mindset. I served in the Portuguese Army Special Forces (Comandos), where I completed an international mission in the Central African Republic. That experience shaped my discipline, focus, and ability to perform under pressure — skills I now apply in the world of technology.
-
-## 💻 What I Do
-- Build command-line tools and system utilities  
-- Work daily with Linux systems  
-- Contribute to open-source projects  
-- Learn and evolve through hands-on practice  
-
-## 🧠 Currently Learning
+Self-taught developer with an operational mindset, focused on building tools for Linux systems. With discipline shaped by demanding environments, I apply a mission-driven approach to offensive security, automation, and systems programming.
+# What I Do
+- Develop command-line tools and Unix-based utilities  
+- Work daily with Linux environments  
+- Contribute to open-source projects focused on security and performance  
+- Learn continuously through hands-on experimentation and real-world analysis  
+# Currently Exploring
 - Rust programming language  
-- Distributed systems  
+- Distributed system design  
 - Secure and efficient CLI development  
-
-## 🤝 Open to Collaborations
-I'm looking to collaborate on impactful projects, especially involving:
-- Open-source tools  
-- Distributed system architecture  
-- Security, performance, and automation  
-- AI integrations and terminal-based assistants  
-
-## 📂 Featured Projects
-> Coming soon: [lexlucas-ultra](https://github.com/CMD126/lexlucas-ultra) – Terminal assistant for performance and system analysis  
-> Coming soon: [cmd-tools](https://github.com/CMD126/cmd-tools) – Useful Linux-based command-line utilities  
-
-## 📬 Contact Me
+#  Open to Collaborations
+Interested in working on impactful and technically demanding projects involving:
+- Open-source security tools  
+- System architecture and automation  
+- AI-assisted CLI utilities  
+- Performance monitoring and low-level analysis  
+#  Featured Projects *(coming soon)*  
+- [`lexlucas-ultra`](https://github.com/CMD126/lexlucas-ultra) – Terminal assistant for performance and system diagnostics  
+- [`cmd-tools`](https://github.com/CMD126/cmd-tools) – Practical and efficient Linux command-line utilities  
+#  Contact
 - Email: cmdmiguelsousa@gmail.com  
 - LinkedIn: [cmdmiguelsousa](https://www.linkedin.com/in/cmdmiguelsousa/)  
-
-## ⚡ Fun Fact
-I love solving puzzles and hacking challenges. I believe in pushing limits, learning fast, and earning everything through hard work and focus.
-
----
-
-> If you’re looking for someone who delivers under pressure and learns at speed — I’m ready to be part of your mission.
-
+#  Personal Note
+I value quiet work, built with clarity and precision. I enjoy solving complex problems with simple tools — always focused, always learning.
