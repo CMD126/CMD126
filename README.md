@@ -21,5 +21,5 @@ This repository serves as a space to document and share my learning process thro
 > "Security is not a state — it’s a process."  
 > This repository documents my process.
 
-📬 For professional contact or collaboration, feel free to connect via([LinkedIn](https://www.linkedin.com/in/cmdmiguelsousa/)
+📬 For professional contact or collaboration, feel free to connect via([LinkedIn](https://www.linkedin.com/in/cmdmiguelsousa/))
  
