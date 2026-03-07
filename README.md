@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Miguel%20Sousa&fontSize=52&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Professional%20%7C%20Red%20Team%20%7C%20OSINT&descColor=00FF41&descSize=18&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a00,100:0d1117&height=220&section=header&text=MIGUEL%20SOUSA&fontSize=68&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=%3E_%20Cybersecurity%20Professional%20%7C%20Red%20Team%20%7C%20OSINT&descColor=00FF41&descSize=19&descAlignY=57&stroke=00FF41&strokeWidth=2" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Cybersecurity+Professional+%F0%9F%94%90;Red+Team+Operator+%7C+Penetration+Testing;Former+Portuguese+Special+Forces+%F0%9F%AA%96;Threat+Hunter+%7C+SIEM+%7C+Incident+Response;Always+learning+%E2%80%94+always+improving" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Cybersecurity+Professional+%F0%9F%94%90;Red+Team+Operator+%7C+Penetration+Testing;Former+Portuguese+Special+Forces+%F0%9F%AA%96;Threat+Hunter+%7C+SIEM+%7C+Incident+Response;Always+learning,+always+improving" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,26 +12,22 @@
   <img src="https://komarev.com/ghpvc/?username=CMD126&label=Profile%20views&color=00FF41&style=flat" alt="Profile views" />
 </p>
 
----
-
 ### 👤 About Me
 
-I'm a cybersecurity professional based in **Portugal 🇵🇹**, transitioning from a career as a **Portuguese Special Forces operator (Comandos)** — including a UN deployment with the **Quick Reaction Force in MINUSCA (2017–2018)** — into offensive and defensive security.
+I'm a cybersecurity professional based in **Portugal 🇵🇹**, transitioning from a career as a **Portuguese Special Forces operator (Comandos)** (including a UN deployment with the **Quick Reaction Force in MINUSCA (2017–2018)**) into offensive and defensive security.
 
-My military background shaped who I am in this field: high-pressure decision-making, mission discipline, and structured thinking under adversity. These aren't soft skills — they're operational habits that translate directly into incident response, red teaming, and threat analysis.
+My military background shaped who I am in this field: high-pressure decision-making, mission discipline, and structured thinking under adversity. These aren't soft skills; they're operational habits that translate directly into incident response, red teaming, and threat analysis.
 
 I recently completed an **intensive 28-week cybersecurity bootcamp** (Code for All), where I moved beyond theory into real attack chains, enterprise infrastructure, and purple team operations.
 
 **What I bring to the table:**
-- 🔴 **Red Team** — Executed full domain compromise in a black-box engagement: FTP enumeration → NTLM hash cracking → RDP lateral movement → LSASS dump → Domain Admin. Exploited **CVE-2021-41773/42013** (CVSS 9.8) for unauthenticated RCE, with all techniques mapped to **MITRE ATT&CK**
-- 🔵 **Blue Team** — Achieved **7/7 MITRE technique detections** using Elastic SIEM, Wireshark, and Windows Event Viewer in a full purple team exercise
-- 🏗️ **Infrastructure** — Designed and deployed a complete enterprise environment from scratch: Active Directory, DNS, DHCP, GPO, FreeRADIUS NAC, pfSense, and internal documentation portals
-- ☁️ **Cloud** — Hands-on with AWS security: network firewalls, security groups, and computing best practices
-- 🐍 **Scripting** — Python and Bash for exploit development, automation, and tooling
+- 🔴 **Red Team:** Executed full domain compromise in a black-box engagement: FTP enumeration → NTLM hash cracking → RDP lateral movement → LSASS dump → Domain Admin. Exploited **CVE-2021-41773/42013** (CVSS 9.8) for unauthenticated RCE, with all techniques mapped to **MITRE ATT&CK**
+- 🔵 **Blue Team:** Achieved **7/7 MITRE technique detections** using Elastic SIEM, Wireshark, and Windows Event Viewer in a full purple team exercise
+- 🏗️ **Infrastructure:** Designed and deployed a complete enterprise environment from scratch: Active Directory, DNS, DHCP, GPO, FreeRADIUS NAC, pfSense, and internal documentation portals
+- ☁️ **Cloud:** Hands-on with AWS security: network firewalls, security groups, and computing best practices
+- 🐍 **Scripting:** Python and Bash for exploit development, automation, and tooling
 
 **Currently targeting:** SOC Analyst / Junior Penetration Tester roles
-
----
 
 ### 🛡️ Core Skills
 
@@ -45,8 +41,6 @@ I recently completed an **intensive 28-week cybersecurity bootcamp** (Code for A
   <img src="https://img.shields.io/badge/Network%20%26%20System%20Admin-1679A7?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Scripting%20Bash%20%2F%20Python-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
-
----
 
 ### 🔧 Tools & Technologies
 
@@ -85,8 +79,6 @@ I recently completed an **intensive 28-week cybersecurity bootcamp** (Code for A
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
----
-
 ### 📜 Certifications
 
 | Certification | Issuer | Date |
@@ -99,17 +91,13 @@ I recently completed an **intensive 28-week cybersecurity bootcamp** (Code for A
 | Fundamentos para uma Carreira em Cibersegurança | Microsoft & LinkedIn | Nov 2025 |
 | Inteligência Artificial para Cibersegurança | LinkedIn | Jul 2025 |
 
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [ICC-003 Purple Team](https://github.com/CMD126/ICC-03-Personal-Repo) | Black-box red team engagement — full domain compromise via 5-step attack chain, CVE-2021-41773/42013 exploitation (CVSS 9.8), 7/7 MITRE ATT&CK detections by blue team | Metasploit · Elastic SIEM · Python |
-| [SecureEdge Inc.](https://github.com/CMD126/SecureEdge-Inc.-Project) | Greenfield enterprise deployment — AD, DNS, DHCP, GPO, NAC (FreeRADIUS), custom network monitoring tool, Nginx documentation portal | PowerShell · FreeRADIUS · Nginx |
+| [ICC-003 Purple Team](https://github.com/CMD126/ICC-03-Personal-Repo) | Black-box red team engagement: full domain compromise via 5-step attack chain, CVE-2021-41773/42013 exploitation (CVSS 9.8), 7/7 MITRE ATT&CK detections by blue team | Metasploit · Elastic SIEM · Python |
+| [SecureEdge Inc.](https://github.com/CMD126/SecureEdge-Inc.-Project) | Greenfield enterprise deployment: AD, DNS, DHCP, GPO, NAC (FreeRADIUS), custom network monitoring tool, Nginx documentation portal | PowerShell · FreeRADIUS · Nginx |
 | [bash-config](https://github.com/CMD126/bash-config) | One-click installer for essential Bash aliases and shell configuration | Shell |
-
----
 
 ### 📊 GitHub Stats
 
@@ -130,8 +118,6 @@ I recently completed an **intensive 28-week cybersecurity bootcamp** (Code for A
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CMD126&theme=react-dark&hide_border=true&area=true&color=00FF41&line=00FF41&point=ffffff" alt="Contribution Graph" />
 </p>
 
----
-
 ### 🌐 Connect
 
 <p align="center">
@@ -147,5 +133,5 @@ I recently completed an **intensive 28-week cybersecurity bootcamp** (Code for A
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:001a00,100:000000&height=120&section=footer&stroke=00FF41&strokeWidth=1" />
 </p>
