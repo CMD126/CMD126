@@ -2,7 +2,7 @@
 
 # Miguel Sousa
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Penetration+Testing+%7C+Threat+Intel+%7C+OSINT;Ex-Special+Forces+%E2%86%92+Cybersecurity;Open+to%3A+Junior+Pentester+%2F+SOC+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist+%40+CROSS-INTEL;Purple+Teaming+%7C+Threat+Intel+%7C+Pentesting;Ex-Special+Forces+%E2%86%92+Cybersecurity" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cmdmiguelsousa-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/cmdmiguelsousa)
 [![Email](https://img.shields.io/badge/Email-cmdmiguelsousa%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:cmdmiguelsousa@gmail.com)
@@ -16,17 +16,16 @@ $ whoami
 ------------------------------------------------
 name        Miguel Sousa
 location    Porto, Portugal 🇵🇹
-background  Portuguese Army Commando (2015-2018) -> UN deployment, MINUSCA
-transition  Comandos -> Cybersecurity (Code for All, 2025-2026)
-shell       python3 / bash
-focus       Pentesting · Threat Intel · OSINT
-status      Open to junior pentest / SOC / compliance roles
+current     Cybersecurity Specialist
+focus       Purple Teaming · Pentesting · OSINT
 ------------------------------------------------
 ```
 
 ### About
 
-Seven years of high-pressure operational experience — first as Special Forces (including a UN deployment to the Central African Republic), later in port logistics — before retraining full-time in offensive and defensive security. That background shows up as discipline under pressure and structured thinking during an engagement, not just tooling knowledge.
+Cybersecurity Specialist at **CROSS-INTEL**, a global cybersecurity and intelligence firm. Seven years of high-pressure operational experience — first as Portuguese Special Forces (including a UN deployment to the Central African Republic), later in port logistics — before transitioning full-time to offensive and defensive security.
+
+That background shows up as **discipline under pressure and structured thinking during an engagement**, not just tooling knowledge. Currently focused on purple team operations, adversary emulation, and threat intelligence.
 
 ---
 
@@ -34,11 +33,12 @@ Seven years of high-pressure operational experience — first as Special Forces 
 
 | Category | Tools |
 |---|---|
-| Offensive | Nmap · Metasploit · Kali Linux |
-| Defensive | Elastic SIEM · Wireshark |
-| Infrastructure | Active Directory · Docker |
-| Scripting | Python · PowerShell |
-| Framework | MITRE ATT&CK |
+| Offensive | Nmap · Metasploit · Kali Linux · Burp Suite |
+| Defensive | Elastic SIEM · Wireshark · Suricata |
+| Infrastructure | Active Directory · Docker · FreeRADIUS · Nginx |
+| Scripting | Python · Bash · PowerShell |
+| Framework | MITRE ATT&CK · Cyber Kill Chain |
+| Intelligence | OSINT · Threat Hunting · Adversary Emulation |
 
 ---
 
@@ -53,14 +53,28 @@ Seven years of high-pressure operational experience — first as Special Forces 
 
 ### Featured Projects
 
-**[Purple Team Security Exercise (ICC-003)](https://github.com/CMD126/Purple-Team-Project)**
-Black-box red team engagement, full domain compromise chain mapped to MITRE ATT&CK; 7/7 techniques caught by the blue team via Elastic SIEM.
+**[🟣 Purple Team Security Exercise (ICC-003)](https://github.com/CMD126/Purple-Team-Project)**
+Black-box red team engagement, full domain compromise chain mapped to MITRE ATT&CK; 7/7 techniques caught by the blue team via Elastic SIEM. Full AD compromise in 5 steps, 100% detection coverage.
 
-**[SecureEdge Inc.](https://github.com/CMD126/SecureEdge-Inc.-Project)**
-Greenfield enterprise build simulating an MSSP client: Active Directory, DNS, DHCP, GPO, FreeRADIUS NAC from scratch.
+**[🏢 SecureEdge Inc.](https://github.com/CMD126/SecureEdge-Inc.-Project)**
+Greenfield enterprise build simulating an MSSP client: Active Directory, DNS, DHCP, GPO, FreeRADIUS NAC from scratch. Includes automated PowerShell user provisioning and internal Nginx documentation portal.
 
-**[Network Tool Pro](https://github.com/CMD126/Network_Tool)**
-Bash CLI diagnostic suite for fast network troubleshooting.
+**[🛡️ roost — SOC-lite Terminal Dashboard](https://github.com/CMD126/roost)**
+Homelab monitoring + exposure scanning + real honeypot alerts, built with Python & Textual. Docker, network, and honeypot telemetry in one terminal interface.
+
+**[🌐 OSINTNEWS](https://github.com/CMD126/OSINTNEWS)**
+Lightweight cross-platform desktop/web app for OSINT gathering — news aggregation, source monitoring, and digital footprint analysis for journalists, researchers, and analysts.
+
+**[🔧 Network Tool Pro](https://github.com/CMD126/Network_Tool)**
+Bash CLI diagnostic suite for fast network troubleshooting with interactive menu interface.
+
+---
+
+### Community
+
+- **BSides Porto** — Volunteer Coordinator (2026)
+- **C-DAYS Portugal** — Attendee & community contributor
+- **CROSS-INTEL** — Threat intelligence and offensive security operations
 
 ---
 
