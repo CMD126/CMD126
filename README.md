@@ -1,86 +1,59 @@
-<div align="center">
+# CMD126
 
-# Miguel Sousa
+**Cybersecurity Specialist at CROSS-INTEL**  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist+%40+CROSS-INTEL;Purple+Teaming+%7C+Threat+Intel+%7C+Pentesting;Ex-Special+Forces+%E2%86%92+Cybersecurity" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cmdmiguelsousa-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/cmdmiguelsousa)
-[![Email](https://img.shields.io/badge/Email-cmdmiguelsousa%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:cmdmiguelsousa@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-LexLucas-black?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/LexLucas)
-[![HackerOne](https://img.shields.io/badge/HackerOne-lexlucas126-black?style=for-the-badge&logo=hackerone&logoColor=red)](https://hackerone.com/lexlucas126)
+[LinkedIn](https://linkedin.com/in/cmdmiguelsousa) · [Email](mailto:cmdmiguelsousa@gmail.com) · [TryHackMe](https://tryhackme.com/p/LexLucas) · [HackerOne](https://hackerone.com/lexlucas126)
 
-</div>
+## About
 
-```bash
-$ whoami
-------------------------------------------------
-name        Miguel Sousa
-location    Porto, Portugal 🇵🇹
-current     Cybersecurity Specialist
-focus       Purple Teaming · Pentesting · OSINT
-------------------------------------------------
-```
+I'm a Cybersecurity Specialist at CROSS-INTEL. Previously, I served in the Portuguese Special Forces, Comandos. Here you'll find my security projects, tools, and labs.
 
-### About
+## Projects
 
-Cybersecurity Specialist at **CROSS-INTEL**, a global cybersecurity and intelligence firm. Seven years of high-pressure operational experience — first as Portuguese Special Forces (including a UN deployment to the Central African Republic), later in port logistics — before transitioning full-time to offensive and defensive security.
+### [Purple Team Security Exercise](https://github.com/CMD126/Purple-Team-Project)
 
-That background shows up as **discipline under pressure and structured thinking during an engagement**, not just tooling knowledge. Currently focused on purple team operations, adversary emulation, and threat intelligence.
+An Active Directory lab covering attack execution and detection with Elastic SIEM. The attack sequence was mapped to MITRE ATT&CK, and the blue team detected all seven techniques tested during the exercise.
 
----
+### [SecureEdge Inc.](https://github.com/CMD126/SecureEdge-Inc.-Project)
 
-### Arsenal
+An enterprise infrastructure lab with Active Directory, DNS, DHCP, Group Policy, and FreeRADIUS NAC. Includes PowerShell user provisioning and an internal Nginx documentation portal.
 
-| Category | Tools |
-|---|---|
-| Offensive | Nmap · Metasploit · Kali Linux · Burp Suite |
-| Defensive | Elastic SIEM · Wireshark · Suricata |
-| Infrastructure | Active Directory · Docker · FreeRADIUS · Nginx |
-| Scripting | Python · Bash · PowerShell |
-| Framework | MITRE ATT&CK · Cyber Kill Chain |
-| Intelligence | OSINT · Threat Hunting · Adversary Emulation |
+### [roost](https://github.com/CMD126/roost)
 
----
+A Python and Textual dashboard for homelab monitoring, exposure scanning, and honeypot alerts, bringing Docker and network telemetry into one terminal interface.
 
-### Certifications
+### [OSINTNEWS](https://github.com/CMD126/OSINTNEWS)
 
-- GoHacking — Ethical Hacking & Penetration Testing (EHPT)
-- GoHacking — OSINT na Prática
-- GoHacking — Security Essentials (GHSE)
-- Code for All — Cybersecurity Intensive Course (Jun 2025 – Feb 2026)
+An OSINT application for news aggregation, source monitoring, and digital footprint analysis.
 
----
+### [Network Tool Pro](https://github.com/CMD126/Network_Tool)
 
-### Featured Projects
+An interactive Bash tool for network diagnostics and troubleshooting.
 
-**[🟣 Purple Team Security Exercise (ICC-003)](https://github.com/CMD126/Purple-Team-Project)**
-Black-box red team engagement, full domain compromise chain mapped to MITRE ATT&CK; 7/7 techniques caught by the blue team via Elastic SIEM. Full AD compromise in 5 steps, 100% detection coverage.
+## Technical Skills
 
-**[🏢 SecureEdge Inc.](https://github.com/CMD126/SecureEdge-Inc.-Project)**
-Greenfield enterprise build simulating an MSSP client: Active Directory, DNS, DHCP, GPO, FreeRADIUS NAC from scratch. Includes automated PowerShell user provisioning and internal Nginx documentation portal.
+* **Security testing:** Nmap, Burp Suite, Metasploit, Kali Linux
+* **Detection and analysis:** Elastic SIEM, Wireshark, Suricata, MITRE ATT&CK
+* **Infrastructure:** Active Directory, DNS, DHCP, Group Policy, FreeRADIUS, Docker, Nginx
+* **Scripting:** Python, Bash, PowerShell
 
-**[🛡️ roost — SOC-lite Terminal Dashboard](https://github.com/CMD126/roost)**
-Homelab monitoring + exposure scanning + real honeypot alerts, built with Python & Textual. Docker, network, and honeypot telemetry in one terminal interface.
+## Certifications & Training
 
-**[🌐 OSINTNEWS](https://github.com/CMD126/OSINTNEWS)**
-Lightweight cross-platform desktop/web app for OSINT gathering — news aggregation, source monitoring, and digital footprint analysis for journalists, researchers, and analysts.
+* CRTA
+* Segura® Deployment
+* Ethical Hacking Penetration Testing
+* Ethical Hacking Python
+* GoHacking Security Essentials (GHSE)
+* OSINT na prática: como transformar rastros digitais em inteligência acionável
+* IA em Cibersegurança: como utilizar de forma adequada
+* AWS Security Best Practices: Computing
+* Cybersecurity Intensive Online Course
 
-**[🔧 Network Tool Pro](https://github.com/CMD126/Network_Tool)**
-Bash CLI diagnostic suite for fast network troubleshooting with interactive menu interface.
+## Community
 
----
+**BSides Porto, Volunteer Coordinator (2026)**  
+Coordinated more than 27 volunteers, handling schedules and team communication during event shifts.
 
-### Community
-
-- **BSides Porto** — Volunteer Coordinator (2026)
-- **C-DAYS Portugal** — Attendee & community contributor
-- **CROSS-INTEL** — Threat intelligence and offensive security operations
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CMD126&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMD126&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" alt="Top Languages" height="165"/>
-
-</div>
+**C-DAYS Portugal**  
+Attendee and community contributor.
