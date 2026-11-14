@@ -3,7 +3,7 @@
 **Cybersecurity Specialist at CROSS-INTEL**  
 
 
-[LinkedIn](https://linkedin.com/in/cmdmiguelsousa) · [Email](mailto:cmdmiguelsousa@gmail.com) · [TryHackMe](https://tryhackme.com/p/LexLucas) · [HackerOne](https://hackerone.com/lexlucas126)
+[LinkedIn](https://linkedin.com/in/cmdmiguelsousa) · [TryHackMe](https://tryhackme.com/p/LexLucas) · [HackerOne](https://hackerone.com/lexlucas126)
 
 ## About
 
@@ -23,13 +23,13 @@ An enterprise infrastructure lab with Active Directory, DNS, DHCP, Group Policy,
 
 A Python and Textual dashboard for homelab monitoring, exposure scanning, and honeypot alerts, bringing Docker and network telemetry into one terminal interface.
 
-### [OSINTNEWS](https://github.com/CMD126/OSINTNEWS)
+### [ICC-03 Cybersecurity Portfolio](https://github.com/CMD126/ICC-03-Personal-Repo)
 
-An OSINT application for news aggregation, source monitoring, and digital footprint analysis.
+Security tools I wrote during the ICC-03 program: a port scanner, SSH log analyzer, IOC scanner, AWS IAM policy analyzer, HTTP security headers checker, and crypto utilities. Python code is linted and tested in CI, and Bash scripts are checked with ShellCheck.
 
 ### [Network Tool Pro](https://github.com/CMD126/Network_Tool)
 
-An interactive Bash tool for network diagnostics and troubleshooting.
+A cross-platform (Linux, macOS, BSD) network diagnostics suite with an interactive menu and a headless CLI mode with JSON output. Covers interfaces, DNS, scanning, web/TLS inspection, and live monitoring, with input validation and a test suite.
 
 ## Technical Skills
 
