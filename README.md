@@ -37,7 +37,7 @@ Around 20 checks (ping, traceroute, DNS, whois, Nmap port and service scans, TLS
 - **Stack:** Python, Bash · **Proof:** 193 offline tests, ruff and ShellCheck in CI
 
 ### [Purple Team Security Exercise](https://github.com/RODMS1/Purple-Team-Project): team project
-Active Directory lab covering attack execution and detection with Elastic SIEM. The attack sequence was mapped to MITRE ATT&CK, and the blue team detected all seven techniques tested.
+Active Directory lab covering attack execution and detection with Elastic SIEM. The attack sequence was mapped to MITRE ATT&CK; the analysis found evidence of 6 of 14 techniques (43%) and documented detection gaps, including the LSASS dump.
 - **My part:** restructured the repository and wrote the red team, blue team and purple team documentation, including the attack path summary and ATT&CK mapping
 - **Stack:** Active Directory, Elastic SIEM, MITRE ATT&CK
 
