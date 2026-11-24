@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner.svg" alt="A lighthouse on the Atlantic coast at dusk. CMD126, cybersecurity specialist: I build the tools that keep watch." width="830">
+    <img src="assets/banner.svg" alt="Commit graph of the CMD126 repositories: one lane per repository, all converging on HEAD." width="830">
   </picture>
 </p>
 
