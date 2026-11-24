@@ -40,12 +40,12 @@ Around 20 checks (ping, traceroute, DNS, whois, Nmap port and service scans, TLS
 13 Python and 4 Bash tools written during the ICC-03 cybersecurity program: SSH log analyzer, IOC scanner, AWS IAM policy analyzer, HTTP security headers checker, port scanner, crypto tools and a sandboxed ransomware simulator.
 - **Stack:** Python, Bash · **Proof:** 193 offline tests, ruff and ShellCheck in CI
 
-### [Purple Team Security Exercise](https://github.com/RODMS1/Purple-Team-Project): team project
+### [Purple Team Security Exercise](https://github.com/CMD126/Purple-Team-Project): team project
 Active Directory lab covering attack execution and detection with Elastic SIEM. The attack sequence was mapped to MITRE ATT&CK; the analysis found evidence of 6 of 14 techniques (43%) and documented detection gaps, including the LSASS dump.
 - **My part:** restructured the repository and wrote the red team, blue team and purple team documentation, including the attack path summary and ATT&CK mapping
 - **Stack:** Active Directory, Elastic SIEM, MITRE ATT&CK
 
-### [SecureEdge Inc.](https://github.com/RODMS1/SecureEdge-Inc.-Project): team project
+### [SecureEdge Inc.](https://github.com/CMD126/SecureEdge-Inc.-Project): team project
 Enterprise infrastructure lab with Active Directory, DNS, DHCP, Group Policy, FreeRADIUS NAC, PowerShell user provisioning and an internal Nginx documentation portal.
 - **My part:** the Nginx documentation portal and its PowerShell deployment script, the Python network tool and its setup script, plus README and script fixes across the project
 - **Stack:** Active Directory, PowerShell, FreeRADIUS, Nginx, Python
