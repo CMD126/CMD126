@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t">
+  <title id="t">CMD126, cybersecurity specialist. Security tooling, detection and homelab.</title>
+  <defs>
+    <pattern id="p" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#C9D3E6" fill-opacity=".9"/></pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#B7791F" stop-opacity=".35"/><stop offset="1" stop-color="#B7791F" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="298" rx="22" fill="#F6F8FC" stroke="#C9D3E6" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#p)"/>
+  <text x="60" y="124" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="84" font-weight="700" letter-spacing="-1.5"><tspan fill="#0A0E1A">CMD</tspan><tspan fill="#B7791F">126</tspan></text>
+  <text x="62" y="176" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="32" fill="#3E4C6B">Cybersecurity specialist</text>
+  <rect x="62" y="218" width="226" height="46" rx="23" fill="#FFFFFF" stroke="#C9D3E6" stroke-width="1.5"/>
+  <text x="175" y="248" text-anchor="middle" font-family="'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="20" fill="#3E4C6B">Security tooling</text>
+  <rect x="302" y="218" width="140" height="46" rx="23" fill="#FFFFFF" stroke="#C9D3E6" stroke-width="1.5"/>
+  <text x="372" y="248" text-anchor="middle" font-family="'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="20" fill="#3E4C6B">Detection</text>
+  <rect x="456" y="218" width="115" height="46" rx="23" fill="#FFFFFF" stroke="#C9D3E6" stroke-width="1.5"/>
+  <text x="513" y="248" text-anchor="middle" font-family="'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="20" fill="#3E4C6B">Homelab</text>
+  <circle cx="905" cy="150" r="70" fill="none" stroke="#3E4C6B" stroke-opacity=".18" stroke-width="2"/>
+  <circle cx="905" cy="150" r="112" fill="none" stroke="#3E4C6B" stroke-opacity=".09" stroke-width="2"/>
+  <path d="M905 150 L760 66" stroke="#B7791F" stroke-opacity=".5" stroke-width="2"/>
+  <path d="M905 150 L1060 62" stroke="#B7791F" stroke-opacity=".5" stroke-width="2"/>
+  <path d="M905 150 L1075 222" stroke="#B7791F" stroke-opacity=".5" stroke-width="2"/>
+  <path d="M905 150 L770 232" stroke="#B7791F" stroke-opacity=".5" stroke-width="2"/>
+  <circle cx="905" cy="150" r="48" fill="url(#glow)"/>
+  <circle cx="905" cy="150" r="16" fill="#B7791F"/>
+  <circle cx="905" cy="150" r="6" fill="#F6F8FC"/>
+  <circle cx="760" cy="66" r="22" fill="#FFFFFF" stroke="#3E4C6B" stroke-opacity=".8" stroke-width="2"/>
+  <circle cx="760" cy="66" r="7" fill="#3E4C6B"/>
+  <text x="760" y="112" text-anchor="middle" font-family="'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="19" fill="#0A0E1A">roost</text>
+  <circle cx="1060" cy="62" r="22" fill="#FFFFFF" stroke="#3E4C6B" stroke-opacity=".8" stroke-width="2"/>
+  <circle cx="1060" cy="62" r="7" fill="#3E4C6B"/>
+  <text x="1060" y="108" text-anchor="middle" font-family="'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="19" fill="#0A0E1A">network tool</text>
+  <circle cx="1075" cy="222" r="22" fill="#FFFFFF" stroke="#3E4C6B" stroke-opacity=".8" stroke-width="2"/>
+  <circle cx="1075" cy="222" r="7" fill="#3E4C6B"/>
+  <text x="1075" y="188" text-anchor="middle" font-family="'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="19" fill="#0A0E1A">ICC-03</text>
+  <circle cx="770" cy="232" r="22" fill="#FFFFFF" stroke="#3E4C6B" stroke-opacity=".8" stroke-width="2"/>
+  <circle cx="770" cy="232" r="7" fill="#3E4C6B"/>
+  <text x="770" y="198" text-anchor="middle" font-family="'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="19" fill="#0A0E1A">tracelight</text>
+</svg>

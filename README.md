@@ -1,68 +1,59 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="CMD126: cybersecurity specialist" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner.svg" alt="CMD126, cybersecurity specialist. Security tooling, detection and homelab." width="830">
+  </picture>
 </p>
 
-# CMD126
+**Cybersecurity specialist in Portugal. I build security tooling and detection, with tests and CI.**
 
-**Cybersecurity Specialist at CROSS-INTEL · Former Portuguese Special Forces (Comandos)**
+Currently at CROSS-INTEL. Before security, the Portuguese Special Forces (Comandos). The code below is public, and the pinned repositories sit right under this page.
 
-Security tooling, detection engineering and hands-on infrastructure labs.
+[LinkedIn](https://linkedin.com/in/cmdmiguelsousa) | [TryHackMe](https://tryhackme.com/p/LexLucas) | [HackerOne](https://hackerone.com/lexlucas126)
 
-[LinkedIn](https://linkedin.com/in/cmdmiguelsousa) · [TryHackMe](https://tryhackme.com/p/LexLucas) · [HackerOne](https://hackerone.com/lexlucas126)
+## Selected work
 
-## About
+<table>
+<tr>
+<td width="50%" valign="top">
+<b><a href="https://github.com/CMD126/roost">roost</a></b><br>
+Terminal SOC-lite for homelabs. Watches Docker containers, hosts and uptime, and keeps a triage queue of honeypot hits, new LAN devices and newly opened ports. Scans private ranges only unless told otherwise, and treats honeypot input as hostile.<br>
+<sub>Python, Textual. 91 tests, CI on Python 3.10 to 3.13.</sub>
+</td>
+<td width="50%" valign="top">
+<b><a href="https://github.com/CMD126/Network_Tool">Network Tool Pro</a></b><br>
+Network diagnostics in Bash: around 20 checks (ping, DNS, whois, Nmap scans, TLS, HTTP) from a menu or a headless CLI with JSON output. Input is validated against command injection and public targets are refused without consent.<br>
+<sub>Bash, Nmap. 56 bats tests, ShellCheck-clean CI.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b><a href="https://github.com/CMD126/ICC-03-Personal-Repo">ICC-03 Cybersecurity Portfolio</a></b><br>
+17 security tools written from scratch (13 Python, 4 Bash): SSH log analyzer, IOC scanner, AWS IAM policy analyzer, HTTP security headers checker, port scanner and a sandboxed ransomware simulator.<br>
+<sub>Python, Bash. 193 offline tests with the optional packages installed, ruff and ShellCheck in CI.</sub>
+</td>
+<td width="50%" valign="top">
+<b>Tracelight</b> (private repository)<br>
+Local, case-centric OSINT tool with consent gates, a hash-chained audit log and a hardened web UI that only listens on 127.0.0.1. Happy to walk through it.<br>
+<sub>Python, FastAPI. 550 tests, CI on Linux and Windows.</sub>
+</td>
+</tr>
+</table>
 
-I'm a Cybersecurity Specialist at CROSS-INTEL. Before moving into security, I served in the Portuguese Special Forces (Comandos). I bring that discipline to security work.
+## Team labs
 
-I like building the tools I use: network diagnostics, monitoring and triage, log and IOC analysis. I ship them with tests, CI and safe defaults. This profile is the evidence: public code you can read, run and test.
+- **[Purple Team Security Exercise](https://github.com/CMD126/Purple-Team-Project):** Active Directory lab with attack and detection on Elastic SIEM. The analysis found evidence of 6 of 14 mapped ATT&CK techniques (43%) and documented the gaps, including the LSASS dump. My part: I restructured the repository and wrote the red, blue and purple team documentation.
+- **[SecureEdge Inc.](https://github.com/CMD126/SecureEdge-Inc.-Project):** enterprise lab with Active Directory, FreeRADIUS network access control, PowerShell provisioning and an internal Nginx portal. My part: the Nginx documentation portal and its deployment script, and the Python network tool.
 
-## What I work on
+Also: [bash-config](https://github.com/CMD126/bash-config), a small Bash aliases installer for Kali and Debian.
 
-- **Offensive security:** reconnaissance, scanning and exploitation in lab environments
-- **Detection and response:** SIEM detections, honeypot alerts, MITRE ATT&CK mapping, triage workflows
-- **Infrastructure security:** Active Directory, Group Policy, network access control, hardened services
-- **Security tooling:** Python and Bash tools built to treat input as hostile and to be safe by default
+## Stack
 
-## Featured projects
+Python, Bash, PowerShell, FastAPI, Textual, Nmap, Elastic SIEM, MITRE ATT&CK, OpenCanary, Active Directory, FreeRADIUS, Nginx, Docker, pytest, bats, ruff, ShellCheck, GitHub Actions.
+Also used in labs: Kali Linux, Burp Suite, Metasploit, Wireshark, Suricata.
 
-### [roost](https://github.com/CMD126/roost): terminal SOC-lite for homelabs
-Monitors Docker containers, hosts and uptime, and keeps a persistent security triage queue of OpenCanary honeypot hits, new LAN devices and newly opened ports.
-- Scans private ranges only unless told otherwise; `roost --demo` runs with made-up data
-- Hardened against hostile input from the honeypot (markup and terminal escape injection)
-- **Stack:** Python, Textual · **Proof:** 90+ tests, CI on Python 3.10-3.13, ruff
-
-### [Network Tool Pro](https://github.com/CMD126/Network_Tool): network diagnostics suite
-Around 20 checks (ping, traceroute, DNS, whois, Nmap port and service scans, TLS certificates, HTTP, bandwidth) from an interactive menu or a headless CLI with JSON output. Built for Linux, with macOS and BSD code paths.
-- Strict input validation that blocks command injection; refuses to scan public targets without explicit consent
-- **Stack:** Bash, Nmap · **Proof:** bats regression tests, ShellCheck-clean CI, [terminal demo](https://github.com/CMD126/Network_Tool/blob/main/docs/demo.svg)
-
-### [ICC-03 Cybersecurity Portfolio](https://github.com/CMD126/ICC-03-Personal-Repo): 17 security tools from scratch
-13 Python and 4 Bash tools written during the ICC-03 cybersecurity program: SSH log analyzer, IOC scanner, AWS IAM policy analyzer, HTTP security headers checker, port scanner, crypto tools and a sandboxed ransomware simulator.
-- **Stack:** Python, Bash · **Proof:** 193 offline tests, ruff and ShellCheck in CI
-
-### [Purple Team Security Exercise](https://github.com/CMD126/Purple-Team-Project): team project
-Active Directory lab covering attack execution and detection with Elastic SIEM. The attack sequence was mapped to MITRE ATT&CK; the analysis found evidence of 6 of 14 techniques (43%) and documented detection gaps, including the LSASS dump.
-- **My part:** restructured the repository and wrote the red team, blue team and purple team documentation, including the attack path summary and ATT&CK mapping
-- **Stack:** Active Directory, Elastic SIEM, MITRE ATT&CK
-
-### [SecureEdge Inc.](https://github.com/CMD126/SecureEdge-Inc.-Project): team project
-Enterprise infrastructure lab with Active Directory, DNS, DHCP, Group Policy, FreeRADIUS NAC, PowerShell user provisioning and an internal Nginx documentation portal.
-- **My part:** the Nginx documentation portal and its PowerShell deployment script, the Python network tool and its setup script, plus README and script fixes across the project
-- **Stack:** Active Directory, PowerShell, FreeRADIUS, Nginx, Python
-
-<sub>Also: [bash-config](https://github.com/CMD126/bash-config), a small Bash aliases installer for Kali and Debian.</sub>
-
-## Technical skills
-
-| Area | Tools |
-|---|---|
-| Security testing | Nmap, Burp Suite, Metasploit, Kali Linux |
-| Detection and analysis | Elastic SIEM, Wireshark, Suricata, MITRE ATT&CK, OpenCanary |
-| Infrastructure | Active Directory, DNS, DHCP, Group Policy, FreeRADIUS, Docker, Nginx |
-| Scripting and development | Python, Bash, PowerShell, Textual |
-| Engineering practice | pytest, bats, ruff, ShellCheck, GitHub Actions CI |
-
-## Certifications and training
+<details>
+<summary>Certifications and training</summary>
 
 - CRTA
 - Segura® Deployment
@@ -74,11 +65,16 @@ Enterprise infrastructure lab with Active Directory, DNS, DHCP, Group Policy, Fr
 - AWS Security Best Practices: Computing
 - Cybersecurity Intensive Online Course
 
-## Community
+</details>
+
+<details>
+<summary>Community</summary>
 
 - **BSides Porto 2026, Volunteer Coordinator:** coordinated more than 27 volunteers, handling schedules and team communication during event shifts
 - **C-DAYS Portugal:** attendee and community contributor
 
-## Get in touch
+</details>
+
+## Contact
 
 Open to conversations about cybersecurity roles and projects. The best way to reach me is a message on [LinkedIn](https://linkedin.com/in/cmdmiguelsousa).
