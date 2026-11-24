@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner.svg" alt="CMD126, cybersecurity specialist. Security tooling, detection and homelab." width="830">
+    <img src="assets/banner.svg" alt="A lighthouse on the Atlantic coast at dusk. CMD126, cybersecurity specialist: I build the tools that keep watch." width="830">
   </picture>
 </p>
 
