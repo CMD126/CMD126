@@ -29,7 +29,7 @@ I like building the tools I use: network diagnostics, monitoring and triage, log
 Monitors Docker containers, hosts and uptime, and keeps a persistent security triage queue of OpenCanary honeypot hits, new LAN devices and newly opened ports.
 - Scans private ranges only unless told otherwise; `roost --demo` runs with made-up data
 - Hardened against hostile input from the honeypot (markup and terminal escape injection)
-- **Stack:** Python, Textual · **Proof:** 90+ tests, CI on Python 3.10–3.13, ruff
+- **Stack:** Python, Textual · **Proof:** 90+ tests, CI on Python 3.10-3.13, ruff
 
 ### [Network Tool Pro](https://github.com/CMD126/Network_Tool): network diagnostics suite
 Around 20 checks (ping, traceroute, DNS, whois, Nmap port and service scans, TLS certificates, HTTP, bandwidth) from an interactive menu or a headless CLI with JSON output. Built for Linux, with macOS and BSD code paths.
