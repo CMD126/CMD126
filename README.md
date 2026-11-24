@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="CMD126: cybersecurity specialist" width="100%">
+</p>
+
 # CMD126
 
 **Cybersecurity Specialist at CROSS-INTEL · Former Portuguese Special Forces (Comandos)**
